@@ -1,4 +1,4 @@
-baseurl: "/"
+baseurl: "/portfolio2"
 title: "Stackbit Fjord Theme"
 page_load_js: "assets/js/main.js"
 params:
